@@ -16,4 +16,5 @@
 | [Прогнозирование заказов такси](Прогнозирование_заказов_такси/) | Прогнозирование заказов такси на ближайший час. | :panda_face:*pandas*<br>:bar_chart:*matplotlib*<br>:1234:*numpy*<br>:microscope:*scikit-learn*<br>:chart_with_downwards_trend:*statsmodels*|
 | [Прогнозирование оттока клиентов](Прогнозирование_оттока_клиентов/) | Разработаем модель для предсказания вероятности разрыва договора абонентом. | :panda_face:*pandas*<br>:bar_chart:*matplotlib*<br>:1234:*numpy*<br>:microscope:*scikit-learn*<br>:triangular_ruler:*phik*<br>:mag:*shap*<br>:cat:*catboost*<br>:bulb:*lightgbm*|
 | [Классификация удовлетворенности сотрудников](Классификация_удовлетворенности_сотрудников/) | Разработаем модель для классификации удовлетворенности сотрудников. | :panda_face:*pandas*<br>:bar_chart:*matplotlib*<br>:1234:*numpy*<br>:microscope:*scikit-learn*<br>:triangular_ruler:*phik*<br>:mag:*shap*|
+| [Распознавание токсичных комментариев](Распознавание_токсичных_комментариев/) | Разработаем модель для классификации комментарии на позитивные и негативные. | :panda_face:*pandas*<br>:microscope:*scikit-learn*<br>:books:*nltk*|
 
