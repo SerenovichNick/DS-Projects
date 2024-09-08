@@ -1,2 +1,2 @@
-Описание проекта
-![image](https://github.com/user-attachments/assets/037c40b6-98a6-427e-9097-b443d4b2383d)
+
+![Uploading _ca0593c9-09cb-4f79-93bb-e34df9961a19.jpg…]()
