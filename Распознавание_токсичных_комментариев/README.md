@@ -1,2 +1,1 @@
-Описание проекта
-![image](https://github.com/user-attachments/assets/037c40b6-98a6-427e-9097-b443d4b2383d)
+![_abe4ffb1-f4ce-46a5-90e3-9d9e930420b0](https://github.com/user-attachments/assets/80e8d083-5db4-4b7b-ba25-3a65d4bf0fe5)
