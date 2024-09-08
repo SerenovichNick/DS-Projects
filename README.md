@@ -17,4 +17,4 @@
 | [Прогнозирование оттока клиентов](Прогнозирование_оттока_клиентов/) | Разработаем модель для предсказания вероятности разрыва договора абонентом. | :panda_face:*pandas*<br>:bar_chart:*matplotlib*<br>:1234:*numpy*<br>:microscope:*scikit-learn*<br>:triangular_ruler:*phik*<br>:mag:*shap*<br>:cat:*catboost*<br>:bulb:*lightgbm*|
 | [Классификация удовлетворенности сотрудников](Классификация_удовлетворенности_сотрудников/) | Разработаем модель для классификации удовлетворенности сотрудников. | :panda_face:*pandas*<br>:bar_chart:*matplotlib*<br>:1234:*numpy*<br>:microscope:*scikit-learn*<br>:triangular_ruler:*phik*<br>:mag:*shap*|
 | [Распознавание токсичных комментариев](Распознавание_токсичных_комментариев/) | Разработаем модель для классификации комментарии на позитивные и негативные. | :panda_face:*pandas*<br>:microscope:*scikit-learn*<br>:books:*nltk*|
-
+| [Расчет рыночной стоимости автомобиля](Расчет_рыночной_стоимости_автомобиля/) | Разработаем модель для расчета рыночной стоимости автомобиля. | :microscope:*scikit-learn*<br>:1234:*numpy*<br>:chart_with_upwards_trend:*plotly*<br>:triangular_ruler:*phik*<br>:cat:*catboost*<br>:bulb:*lightgbm*|
